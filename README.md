@@ -23,3 +23,10 @@ Objectives
 5.  Create an automated system of alerts for hazardous conditions 
 6.  Create a system of notifications 
 7.  And lastly, use a communication medium to notify the user. 
+
+DROPBOX LINK TO:
+1.  Proposal
+2.  Presentation
+3.  Research Paper
+
+https://www.dropbox.com/sh/1bun13ohstzeb7z/AABG3frjkdyMrMliFGTqKWtha?dl=0
