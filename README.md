@@ -24,9 +24,8 @@ Objectives
 6.  Create a system of notifications 
 7.  And lastly, use a communication medium to notify the user. 
 
-DROPBOX LINK TO:
-1.  Proposal
-2.  Presentation
-3.  Research Paper
+YouTube Link to Presentation:
+https://youtu.be/slyWjTbwU-0
 
-https://www.dropbox.com/sh/1bun13ohstzeb7z/AABG3frjkdyMrMliFGTqKWtha?dl=0
+LINK TO Research Paper
+https://tinyurl.com/aquasense
